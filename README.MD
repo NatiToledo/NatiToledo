@@ -2,7 +2,7 @@
 ### I'm Natalia! 
 
  - 💘 Technology Lover
- - 🎓 I'm Data Engineer
+ - 🎓 I'm Junior Data Engineer
  - ☁️ Studying Cloud Computing
  - 👨‍👩‍👦 Mother
  
